@@ -1,10 +1,10 @@
 # Hi, I'm Jamer Andres .
 ### ‎I sᴇᴇ ᴛʜᴇ ᴡᴏʀʟᴅ ғʀᴏᴍ ᴍʏ ᴡɪɴᴅᴏᴡ...
-I ᴀɪɴ'ᴛ ɢᴏɪɴ' ᴏᴜᴛsɪᴅᴇ, sᴇᴇ ɪᴛ ᴛʜʀᴏᴜɢʜ ᴍʏ ᴡɪɴᴅᴏᴡ...
-☁︎‎‎ ₉⁹₉ ✦🌠.
+### I ᴀɪɴ'ᴛ ɢᴏɪɴ' ᴏᴜᴛsɪᴅᴇ, sᴇᴇ ɪᴛ ᴛʜʀᴏᴜɢʜ ᴍʏ ᴡɪɴᴅᴏᴡ...
+### -☁︎‎‎ ₉⁹₉ ✦.
 
 # I currently use 🛠️:
-[![My Skills](https://skillicons.dev/icons?i=arch,py,linux,bash,neovim,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=artix,py,linux,bash,neovim,&theme=dark)](https://skillicons.dev)
 
 # My GitHub stats 🔥🚀:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monoofaware&theme=tokyonight&utcOffset=8) 
@@ -16,6 +16,3 @@ I ᴀɪɴ'ᴛ ɢᴏɪɴ' ᴏᴜᴛsɪᴅᴇ, sᴇᴇ ɪᴛ ᴛʜʀᴏᴜɢʜ ᴍ
 
 ## More About Me
 ### https://github.com/monoofaware/My-Condition
-
-# Feel free to reach me here 🌎:
-### 📌 https://beacons.ai/zumoxsx  😉
