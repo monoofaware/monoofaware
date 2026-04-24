@@ -1,5 +1,7 @@
-# Hi, I'm Zumo✌️.
-### By day I learn Japanese 📚🇯🇵 , and by night I hack 👨🏻‍💻☠️  , use Linux 🐧, and do things that sometimes I don't even understand 😵💫... but it works, and that's what I love ❤️🌠.
+# Hi, I'm Jamer Andres .
+### ‎I sᴇᴇ ᴛʜᴇ ᴡᴏʀʟᴅ ғʀᴏᴍ ᴍʏ ᴡɪɴᴅᴏᴡ...
+I ᴀɪɴ'ᴛ ɢᴏɪɴ' ᴏᴜᴛsɪᴅᴇ, sᴇᴇ ɪᴛ ᴛʜʀᴏᴜɢʜ ᴍʏ ᴡɪɴᴅᴏᴡ...
+☁︎‎‎ ₉⁹₉ ✦🌠.
 
 # I currently use 🛠️:
 [![My Skills](https://skillicons.dev/icons?i=arch,py,linux,bash,neovim,&theme=dark)](https://skillicons.dev)
