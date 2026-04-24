@@ -1,7 +1,7 @@
 # Hi, I'm Jamer Andres .
 ### ‎I sᴇᴇ ᴛʜᴇ ᴡᴏʀʟᴅ ғʀᴏᴍ ᴍʏ ᴡɪɴᴅᴏᴡ...
 ### I ᴀɪɴ'ᴛ ɢᴏɪɴ' ᴏᴜᴛsɪᴅᴇ, sᴇᴇ ɪᴛ ᴛʜʀᴏᴜɢʜ ᴍʏ ᴡɪɴᴅᴏᴡ...
-### -☁︎‎‎ ₉⁹₉ ✦.
+### ☁︎‎‎ ₉⁹₉ ✦.
 
 # I currently use 🛠️:
 [![My Skills](https://skillicons.dev/icons?i=artix,py,linux,bash,neovim,&theme=dark)](https://skillicons.dev)
